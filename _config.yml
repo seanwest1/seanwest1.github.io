@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Sean WestSite
+title: My Sean WestSite
 
 # Your name to show in the footer
 author: Sean
@@ -24,8 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - My CV:
-"/assets/htmlCode (2).pdf" 
+    - My CV: "/assets/htmlCode (2).pdf" 
   
 
 ################
