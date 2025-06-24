@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My media center journey part one
+title: Media centre series part one Bad Omens
 subtitle: 
 tags: [Home Media, Streaming, DLNA, Raspberry Pi, DIY Tech, Media Server, Personal Project, Tech Solutions, Cord Cutting]
 author: Sean
