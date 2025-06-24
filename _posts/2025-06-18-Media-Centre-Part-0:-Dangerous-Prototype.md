@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My media center journey part zero
+title: Media Centre Part 0: Dangerous Prototype
 subtitle: 
 tags: [Home Media, Streaming, DLNA, Raspberry Pi, DIY Tech, Media Server, Personal Project, Tech Solutions, Cord Cutting]
 author: Sean
