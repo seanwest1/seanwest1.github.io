@@ -13,41 +13,42 @@ After my initial forey into media centre set up I was ready. I did some research
 I'd decided to have my Raspberry pi 400 as a central hub where I could serve media 
 to all the devices on my network. 
 
-The Rasperry pi, despite being a self contained computer doesn't have storage of
-its own. You have to install everything onto external storage devices like memory 
-cards and USB sticks and plug it in. So I got my memory card and intalled the 
-"Lite" version of an operating system. 
+My past uses of raspberry pi had been a little bit and miss, some little puffs of smoke taping away at a keyboard and googling solutions for hours to fix issues. But it still remains one of my favourite hobbies. 
 
-This process is a lot easier now that there is software that will let you choose
-from a list of recomended opperating systems that are compatible with it. Most of
-these operating systems are based on Linux as opposed to the more popular with 
-consumers Windows or Mac.
+Since my last project (a time lapse photography rig using an old webcamera, the setup process had been simplified with the "raspberry pi imager"program which handled some extra settings for you.
 
-The lite version of the operating system doesn't have what's called a GUI 
-(graphical user interface) or a dsektop environment. You use the computer using 
-written commands. I figured I would need to save as many resources as possible 
-if I was going to get the little computer to do all that work.
+I picked an SD card and put it in my laptop and selected my operating system. Raspberry pi usually runs a Linux operating system as opposed to the more popular with consumers Windows or Mac.
 
-Within a minute the Pi started up, connected to my WIFI and I connected to it 
-from my laptop. 
+The lite version of the official raspberry pi Os (operating system) doesn't have what's called a GUI 
+(graphical user interface) or the desktop you see on most computers. You use the computer using 
+written commands. I'm not 100% facil with the process, but when you get used to it it feels really cool, like to are a hacker. When you get used to it, it is actually quicker than using a mouse.
 
-The mystery deepened, the thing just worked. First time... Bad omen, it never
+I didn't want to connect up the pi to a monitor and keyboard. So I turned on the power and within a minute the Pi started up, connected to my WIFI and I connected to it from my laptop. 
+
+Then weirdly, the thing just worked. First time... Bad omen, it never
 just works, I'd be paying for this somehow.
 
 I had my setup guides open, everything was going well the terminal (where you 
 give commands and recive output from the computer) was all working for me. 
 And if I really got stuck I could dump there error message into chat gpt.
 
-was having fun so I didn't realise it was getting late, I set up a basic firewall
+I was having fun so I didn't realise it was getting late, I set up a basic firewall
 because a guide suggested it, I installed a program to make it easier to transfer
-files from other computers, then finally I installed a media player program.
+files from other computers, then finally I installed a media player program, tested it out with some files on a USB.
 
-I can't emphasive how strange it was that there wasn't any errors.
+I can't emphasive how strange it was that it just worked.
 
-And then there was, I had skipped a step in the firewall setup, was too cautious
-now I couldn't use the software the transfer media from my laptop to the pi.
+And then 
+
+ding
+
+I had skipped a step in the firewall setup, was too cautious now I couldn't use the software the transfer media from my laptop to the pi.
+
+dong
 
 And then it started, my son only went to be so easily because he was starting to 
 get sick. 
 
 I had to abandon my project just as I worked out what I'd done wrong.
+
+The next day was very much a write off.
