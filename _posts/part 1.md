@@ -38,7 +38,7 @@ files from other computers, then finally I installed a media player program, tes
 
 I can't emphasive how strange it was that it just worked.
 
-** And then my luck had run out, the tide was turning. I had gotten my feet wet, in the seemingly safe rock pools not thinking I'd have to swim. **
+*** And then my luck had run out, the tide was turning. I had gotten my feet wet, in the seemingly safe rock pools not thinking I'd have to swim. ***
 
 I had skipped a step in the firewall setup because I didn't understand it....  Now I couldn't use the software the transfer media from my laptop to the pi. 
 
@@ -46,7 +46,7 @@ I went back and read what the guide said. Was fixable.
 
 The was a little noise, nothing to work about.
 
-** I turned around to look at the sea, the horizon was gone. Next I knew I was smashed back into hard rocky reality **
+*"* I turned around to look at the sea, the horizon was gone. Next I knew I was smashed back into hard rocky reality ***
 
  I heard my son start crying out, confused and congested. He had only went to bed so easily because he was worn out from a day at childcare and a virus he'd picked up there.
 
