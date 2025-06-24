@@ -9,7 +9,7 @@ author: Sean
 It was a strange night, I probably should have seen it comming. The kids went to
 sleep too easily. I didn't question it, maybe it was just the time of the year...
 
-After my initial forey into media centre set up I was ready. I did some research
+After my initial foray into media centre set up I was ready. I did some research
 I'd decided to have my Raspberry pi 400 as a central hub where I could serve media 
 to all the devices on my network. 
 
@@ -29,7 +29,7 @@ Then weirdly, the thing just worked. First time... Bad omen, it never
 just works, I'd be paying for this somehow.
 
 I had my setup guides open, everything was going well the terminal (where you 
-give commands and recive output from the computer) was all working for me. 
+give commands and receive output from the computer) was all working for me. 
 And if I really got stuck I could dump there error message into chat gpt.
 
 I got into a flow state, I was having fun so I didn't realise it was getting late, I set up a basic firewall
@@ -44,7 +44,7 @@ I had skipped a step in the firewall setup because I didn't understand it....  N
 
 I went back and read what the guide said. Was fixable.
 
-The was a little noise, nothing to work about.
+The was a little noise, nothing to worry about.
 
 ***I turned around to look at the sea, the horizon was gone. Next I knew I was smashed back into hard rocky reality***
 
