@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: An explanation.
+subtitle: My Project Log & Learning Journey
 ---
 
-My name is Sean, I use my phone to consume a lot of things that quickly slip my mind. So I figured if I created something out of it I'd have something to show for it.
+Welcome! I'm Sean, living here in Frankston. I firmly believe in the power of learning by doing, and this website is my dedicated space to share that journey.
 
-I noticed my ability to explain my thoughts is lacking, here is my attempt to practice this skill
+You'll find a growing collection of my personal projects here, showcasing how I approach different challenges and build practical solutions. As a Lab Tech for almost ten years, I've developed a keen eye for detail, problem solving and troubleshooting, all skills that serve me well as I delve deeper into the world of technology. 
 
-### My story
+The value of creation over consumption is a notion that I've come across online, and it's one that wholeheartedly agree with. From Seneca to Björk.  This website is my own experiment in applying this philosophy, as work on projects that challenge me, help me learn and to grow.
 
-- I live in Frankston with my family.
-- I'm a highschool laboratory technician. 
-- I'd love to get more sleep than I currently get but this is what I chose.
-- Check my LinkedIn otherwise.
+- Sean
+
+- 26/06/2025
+
