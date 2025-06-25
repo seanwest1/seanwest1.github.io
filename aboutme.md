@@ -10,7 +10,6 @@ You'll find a growing collection of my personal projects here, showcasing how I 
 
 The value of creation over consumption is a notion that I've come across online, and it's one that wholeheartedly agree with. From Seneca to Björk.  This website is my own experiment in applying this philosophy, as work on projects that challenge me, help me learn and to grow.
 
-- Sean
+ Sean
 
-- 26/06/2025
-
+Here's my [resume](https://seanwest1.github.io/assets/resume.html) if you'd like to see it 
