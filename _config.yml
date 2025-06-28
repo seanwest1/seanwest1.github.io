@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - My CV: "/assets/resume.html" 
+    - Site map:"site-map"
   
 
 ################
