@@ -25,21 +25,21 @@ I sat in the cold with my McDonald's in the  artificial twilight created by the 
 
 I felt comfortably removed from that now. The pain of reading my own writing was gone. Especially now that the thing had been finalised years prior.
 ## The lab work.
-The subject of our project had to be something timely or relevant of recent research that had been fine. 
+The subject of our project had to be something timely, or recent released research 
 
 At the time there was a contamination incident in Germany that had spread across several EU countries. It had lead to multiple deaths and caused a massive over haul of the industry.
 
 The pathogen at the heart of the outbreak was a strain of *E.Coli* capable of producing a toxin when under stress.
 
-_E. coli_ are normally harmless bacteria that live in the guts of mammals and are considered essential to normal digestion, but some acquire new genes from other bacteria giving them different abilities (like making toxin). Their presence on food generally suggests recent faecal contamination.
+_E. coli_ are normally harmless bacteria that live in the guts of mammals and are considered essential to normal digestion, but some acquire new genes from other bacteria giving them different abilities (like making toxins, antibiotic resistance). Their presence on food generally suggests recent faecal contamination.
 
-Looking back I probably would have elected to choose a less specific topic. But we were sort of encouraged by supervisors to follow this direction. Because *E.coli* would give distinctive results and are well understood and researched.
+Looking back I probably would have elected to choose a less specific topic. But we were encouraged by supervisors to follow this direction. Because *E.coli* would give distinctive results, are well understood and researched.
 
 We began by getting samples from some washed and ready to eat salad leaves and putting onto some Petri dishes with nutrients and a thick jelly like substance for them to grow on and in to. 
 
 After these grew one of us came back about 48 hours later to make observations and put the plates in the fridge for the next session.
 
-Over the next few sessions we would pick off different colonies of bacteria and put them on new plates and seperate them so we would only grow Petri dishes of the same bacteria. Along the way we would subject the bacterial colonies to traditional microbiological tests 
+Over the next few sessions we would pick off different colonies of bacteria and put them on new plates and seperate them so it would only grow Petri dishes of the same bacteria. Along the way we would subject the bacterial colonies to traditional microbiological tests 
 
 ### Traditional microbiological tests
 The marking rubric required a variety of tests using traditional methods where physical characteristics are tested) like what they can metabolise (use for fuel), how they react to different chemicals, what they looked like under the microscope and what their blob on the petri dish (the colony that grows from sampled bacteria) looked like. 
@@ -59,7 +59,7 @@ You are probably familiar but to simplify, for the purposes of this explanation 
 
 #### Lab based molecular techniques:
 
-First DNA had to be extracted from our carefully selected bacterial colonies. Then we moved to the two broad molecular techniques. Ones that techniques accessible to us in a teaching laboratory. DNA size (how many rungs the ladder had) and another the pattern of distinctive fragmentation of DNA sequences when chemically cut (how long the pieces of the ladder were).
+First DNA had to be extracted from our carefully selected bacterial colonies grown previously. Then we moved to the two broad molecular techniques. Ones that were accessible to us in a teaching laboratory. DNA size (how many rungs the ladder had) and another the pattern of distinctive fragmentation of DNA sequences when chemically cut (how long the pieces of the ladder were).
 
 The other technology we would get results from was much more fine and was at the scale of individual letters that made up the DNA (The order of the letters that made up the rungs), it involved sending our samples to a specialised facility.
 
@@ -76,9 +76,9 @@ A combination of the two techniques (PCR and gel electrophoresis) was used to de
 
 We then put our samples on the gel and we found that the bacteria did have the gene for the toxin because our selective PCR process made copies of the gene and the gel showed that a fragment had been made at the size expected for the gene for making the toxin.
 
-It should be noted that the gene itself doesn't indicate the presence of the toxin, it's more like the bacterial DNA has the instructions for making the toxin stored in it.
+It should be noted that the gene itself doesn't indicate the presence of the toxin, it's more like the bacteria have the instructions for making the toxin in their DNA.
 
- The second one we did in the lab was a type of genetic barcode. In a large group of bacteria called Enterobacteriaceae one that includes *E.coli*, there are regions of DNA that have repeating sequences in them. Special enzymes can be used to cut DNA at specific sequences (if there is CTAGA for example). When these regions of DNA are cut up and run on gel electrophoresis, the fragment sizes created are unique for different strains of bacteria. So later the fragments of DNA look like a bit like a barcode, that's unique to each strain.
+The second one we did in the lab was a type of genetic barcode. In a large group of bacteria called Enterobacteriaceae one that includes *E.coli*, there are regions of DNA that have repeating sequences in them. Special enzymes can be used to cut DNA at specific sequences (if there is CTAGA for example). When these regions of DNA are cut up and run on gel electrophoresis, the fragment sizes created are unique for different strains of bacteria. So later the fragments of DNA look like a bit like a barcode, that's unique to each strain.
 
 #### DNA sequencing 
 
