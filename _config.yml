@@ -24,6 +24,11 @@ navbar-links:
   Resources:
     - My CV: "/assets/resume.html" 
     - Site map: "site-map"
+  Social:
+    - github: "https://github.com/seanwest1"
+    - linkedin: "https://www.linkedin.com/in/seanwest2"
+    - instagram: "https://www.instagram.com/thingsisee323"
+    - kaggle: "https://www.kaggle.com/sean110"
   
 
 ################
