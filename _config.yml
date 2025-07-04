@@ -21,10 +21,8 @@ author: Sean
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - My CV: "/assets/resume.html" 
-    - Site map: "site-map"
-  Social:
+  My CV: "/assets/resume.html" 
+  Connect:
     - github: "https://github.com/seanwest1"
     - linkedin: "https://www.linkedin.com/in/seanwest2"
     - instagram: "https://www.instagram.com/thingsisee323"
