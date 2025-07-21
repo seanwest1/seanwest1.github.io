@@ -8,7 +8,7 @@ author: Sean
 
 ## Time constraints and setbacks.
 
-Since the events of part two, my son had brought home multiple viruses and was unhappy about his new teeth coming through. There wasn't much to do except comfort him and give him ibuprofen and paracetamol.
+Since the events of part one, my son had brought home multiple viruses and was unhappy about his new teeth coming through. There wasn't much to do except comfort him and give him ibuprofen and paracetamol.
 
 It meant that I got to spend a bit of time with him. He would want to cuddle with me while sitting on the couch but would also demand to be carried most times I walked away from him.
 
