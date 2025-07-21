@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Media centre part two Resolution
-subtitle: Subtitle
+subtitle:
 tags: [raspberry pi, osmc, kodi, media centre, cec, hdmi, lessons learned, simple solutions, diy tech]
 author: Sean
 ---
