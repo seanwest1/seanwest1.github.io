@@ -1,3 +1,10 @@
+---
+layout: post
+title: Media centre series part one Bad Omens
+subtitle: 
+tags: [Home Media, Streaming, DLNA, Raspberry Pi, DIY Tech, Media Server, Personal Project, Tech Solutions, Cord Cutting]
+author: Sean
+---
 It was a strange night. I probably should have seen it coming. The kids went to sleep too easily. I didn't question it; maybe it was just the time of year...
 
 After my initial foray into media center setup, I was ready. I'd done some research and decided to use my **Raspberry Pi 400** as a central hub to serve media to all the devices on my network.
