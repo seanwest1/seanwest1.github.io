@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Media centre part 3 Resolution
+title: Media centre part two Resolution
 subtitle: Subtitle
 tags: [raspberry pi, osmc, kodi, media centre, cec, hdmi, lessons learned, simple solutions, diy tech]
-author:
-  - Sean
+author: Sean
 ---
 
 ## Time constraints and setbacks.
