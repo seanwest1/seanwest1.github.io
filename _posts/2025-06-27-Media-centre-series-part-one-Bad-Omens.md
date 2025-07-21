@@ -1,10 +1,3 @@
----
-layout: post
-title: Media Centre Series Part 1 Bad Omens
-subtitle: 
-tags: [Home Media, Streaming, DLNA, Raspberry Pi, DIY Tech, Media Server, Personal Project, Tech Solutions, Cord Cutting]
-author: Sean
----
 It was a strange night. I probably should have seen it coming. The kids went to sleep too easily. I didn't question it; maybe it was just the time of year...
 
 After my initial foray into media center setup, I was ready. I'd done some research and decided to use my **Raspberry Pi 400** as a central hub to serve media to all the devices on my network.
@@ -22,3 +15,21 @@ I didn't want to connect the Pi to a monitor and keyboard. So, I turned on the p
 Then, weirdly, the thing just worked. First time... **Bad omen**. It never just works; I'd be paying for this somehow.
 
 I had my setup guides open, and everything was going well. The **terminal** (where you give commands and receive output from the computer) was cooperating. And if I really got stuck, I could dump the error message into ChatGPT.
+
+I got into a **flow state**, having so much fun that I didn't realize how late it was getting. I set up a basic **firewall** because a guide suggested it, installed a program to make it easier to transfer files from other computers, and then finally installed a **media player** program. I tested it out with some files on a USB.
+
+I can't emphasize how strange it was that it just worked.
+
+**And then my luck had run out. The tide was turning. I had gotten my feet wet in the seemingly safe rock pools, not thinking I'd have to swim.**
+
+I had skipped a step in the firewall setup because I didn't understand it... Now I couldn't transfer media from my laptop to the Pi because of that very same firewall.
+
+I went back and read what the guide said. It was fixable.
+
+**I turned around to look at the sea; the horizon was gone. Next I knew, I was smashed back into hard, rocky reality.**
+
+I heard my son start crying out, confused and congested. He had only gone to bed so easily because he was worn out from a day at childcare and a virus he'd picked up there.
+
+I had to abandon my project for the night just as I worked out what I'd done wrong.
+
+The next day was only made possible though caffeine and strategic pushup `breaks`.
