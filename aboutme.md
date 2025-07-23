@@ -4,12 +4,23 @@ title: About me
 subtitle: My Project Log & Learning Journey
 ---
 
-Welcome! I'm Sean, living here in Frankston. I firmly believe in the power of learning by doing, and this website is my dedicated space to share that journey.
+I’m Sean, 
 
-You'll find a growing collection of my personal projects here, showcasing how I approach different challenges and build practical solutions. As a Lab Tech for almost ten years, I've developed a keen eye for detail, problem solving and troubleshooting, all skills that serve me well as I delve deeper into the world of technology. 
+I live all the way out here in Frankston with:
+- my family.
+- a some books.
+- a slightly sad ThinkPad.
+- too many adapters and devices.
+- my prized Matilda Buffalo lawn.
 
-The value of creation over consumption is a notion that I've come across online, and it's one that wholeheartedly agree with. From Seneca to Björk.  This website is my own experiment in applying this philosophy, as work on projects that challenge me, help me learn and to grow.
+I like the idea of
+- reading. (On pause till my kids start to sleep through the night. 🤞 Sorry Kobo.)
+- making use of technology to solve problems like making sure the garage door is closed.
 
- Sean
+#### Why a website?
+Around the time of the pandemic lockdowns my daughter was born. To my detriment I had forced but broken down time on my hands. So I started going on scroll based apps more and more. After a bit of denial I got my adult ADHD diagnosis and it all fell in to place.
 
-Here's my [resume](https://seanwest1.github.io/assets/resume.html) if you'd like to see it 
+So to remedy this I figured I'd start trying to read, take notes of what's interesting to me. So instead of eating metaphorical Pringles from my phone, one after another until I feel sick.
+
+I've decided more lasting and productive enjoyment can be gotten from making things.
+
