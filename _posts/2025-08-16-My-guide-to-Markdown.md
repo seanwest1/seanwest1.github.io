@@ -16,8 +16,7 @@ tags:
   - markup
   - learning
   - writing
-author:
-  - Sean
+author: Sean
 ---
 During my brief IT studies in an introduction to programming unit we had to write documentation for all of our code. The documentation along with comments explain what your code does so that other people can use it. The reason is that other people will have to use your code and if it is used in something critical to a service or business it is like infrastructure.
 
