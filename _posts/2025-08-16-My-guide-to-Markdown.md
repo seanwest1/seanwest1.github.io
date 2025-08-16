@@ -55,8 +55,8 @@ For me when I got started the most helpful thing was headings. Just like in a wo
 
 ```Markdown
 # Title 
-## Smaller subheading 
-### Even smaller
+## Subheading 
+### Subheading
 ```
 Gives you:
 # Title
@@ -74,7 +74,9 @@ Then formatting:
 Gives you:
 
 *Italic*
+
 **Bold**
+
 ***Italic and Bold***
 
 And then as I got going was lists
