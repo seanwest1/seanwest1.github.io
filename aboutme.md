@@ -4,25 +4,33 @@ title: About me
 subtitle: My Project Log & Learning Journey
 ---
 
-I’m Sean, 
+# About Me
 
-I live all the way out here in Frankston with:
-- my family.
-- a some books.
-- a slightly sad ThinkPad.
-- too many adapters and devices.
-- my prized Matilda Buffalo lawn.
+I’m Sean.
 
-I like the idea of
-- reading. On pause till my kids start to sleep through the night. 🤞 Sorry Kobo.
-- making use of technology to solve problems like making sure the garage door is closed.
+I live out in Frankston with:
+- my family
+- some books
+- a slightly sad ThinkPad
+- too many adapters and devices
+- my prized Matilda Buffalo lawn
 
-#### Why a website?
-Around the time of the pandemic lockdowns my daughter was born. To my detriment I had ample but broken down time on my hands. So I started going on scroll based apps more and more. 
 
-After a bit of denial I got my adult ADHD diagnosis and it all fell in to place. 
+I like the idea of:
+- reading. That’s on pause until my kids start sleeping through the night 🤞 Sorry Kobo.
+- using technology to solve everyday problems, like making sure the garage door is closed.
 
-So to remedy this I figured I'd start trying to collect what is meaningful to me, instead of eating metaphorical Pringles from my phone, one after another until I feel sick.
 
-I've decided more lasting and productive enjoyment can be gotten from making things.
+I work as a high school Lab Tech and have spent more than a decade in scientific environments.
 
+My background is in microbiology and biotechnology, and lately I’ve been getting into Python and open-source software as tools for solving new problems.
+
+During the pandemic I caught myself relying too much on passive, scroll-based apps and decided to shift that time into something more constructive.
+
+This site is my way of channelling ADHD into building, creating, and documenting projects. It’s where I try to turn new ideas into real work and share what I learn along the way.
+
+I believe curiosity drives innovation, and my aim is to always be learning.
+
+~~For a full overview of my professional and academic background, see my Skills and Expertise page.~~ You can also check out my latest projects on the blog.
+
+update - As of August 2025 I started to read a few kobo pages of "The Tartar Steppe" by Dino Buzzati before I go to sleep.
