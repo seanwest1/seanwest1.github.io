@@ -4,8 +4,6 @@ title: About me
 subtitle: My Project Log & Learning Journey
 ---
 
-# About Me
-
 I’m Sean.
 
 I live out in Frankston with:
