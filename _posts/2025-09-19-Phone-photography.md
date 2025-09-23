@@ -2,7 +2,7 @@
 layout: post
 title: Phone photography
 subtitle:
-tags:[PhonePhotography, MobilePhotography, MacroPhotography, FungiPhotography, Pixel6Pro, Astrophotography, PhotographyTips, CompositionRules, BeginnerPhotography, Tripod, LowLight, RuleOfThirds]
+tags:
 author: Sean
 ---
 
