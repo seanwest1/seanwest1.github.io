@@ -16,19 +16,17 @@ Ask yourself about your computer use:
 
 ## My Mum's laptop was dying.
 
-My parents were about to spend around $2000 on a PC. She mostly uses a web browser, word processor, solitaire and it's variations. Luckily I'd been reading about the end of support for Windows 10 coming up for older machines. So it was on my mind that I could repurpose an old laptop I had my parents to use instead. I thought it would be worth installing a different OS (operating system) and seeing if she could get used to it. I did a little Googling, many people recommended Linux Mint for Windows users due to its similar look.
+My parents were about to spend around $2000 on a PC. She mostly uses a web browser, word processor, solitaire and it's variations. Luckily I'd been reading about the end of support for Windows 10 coming up for older machines. So it was on my mind. I could repurpose an old laptop I had instead. I thought it would be worth installing a different OS (operating system) and seeing if she could get used to it. I did a little Googling, many people recommended Linux Mint for Windows users due to its similar look.
 
-I changed a setting for the laptop to look the USB drive for an OS when powered on. 
-Without this it would automatically get the installed Windows OS from the hard drive.
-I put Linux Mint on a USB and started it up. I made sure the track pad, Wi-Fi, sound and USB ports all worked. Everything was in order.
+I changed a setting for the laptop to look the USB drive for an OS when powered on. Without this it would automatically get the installed Windows from the hard drive. I put Linux Mint on a USB and started it up. I made sure the track pad, Wi-Fi, sound and USB ports all worked. Everything was in order.
 
-Then I went ahead with the full install that would overwrite the Windows installation on the hard drive. In less that 15 minutes it was ready to go. I set it to update automatically in the background, Firefox, libre office and a card game (with 200+ variations) on the desktop and had a try. Compared to its former sluggish state it was like a new machine for these tasks. 
+Then I went ahead with the full install that would overwrite the Windows installation. In less that 15 minutes it was ready to go. I set it to update automatically in the background, Firefox, libre office and a card game (with 200+ variations) on the desktop and had a try. Compared to its former sluggish state it was like a new machine, starting up quickly and easily handling it's new tasks. 
 
-From my calculations the computer would have been from the later Windows 7 (July 22, 2009 release date for hardware manufacturers) or Windows 8 (August 1, 2012) era so it wasn't designed with Windows 10 in mind. Then a week later I handed it over to my Mum.
+From my calculations the computer would have been from the later Windows 7 (July 2009) or Windows 8 (August 2012) era so it wasn't designed with Windows 10 in mind. Then a week later I handed it over to my Mum.
 
 ## My gaming PC and the Windows apocalypse.
 
-This success pushed me to try Linux on my gaming PC. I bought the components before COVID 19 was considered a pandemic. One of the components didn't have a feature required to get the upgrade. I probably could have gotten Windows 11 to work on it, but there was a chance it would become unstable.
+This success pushed me to try Linux on my gaming PC. I bought the components and built it before COVID 19 was considered a pandemic. One of the components didn't have a feature required to get the upgrade. I probably could have gotten Windows 11 to work on it, but there was a chance it would become unstable.
 
 But I'd read about advances that had been made in the last few years running games in Linux. Going in I was worried about issues around the hardware of my computer. But being slightly older hardware meant people had made drivers for it.
 ### Problems   
@@ -52,11 +50,11 @@ They sell specialised computer hardware but also make the OS available for free.
 I liked it because it is built on Ubuntu which has a large userbase. Uses a dock at the bottom of the screen. I'm already used to Ubuntu flavour of BASH commands. I decided I was onto a winner, it worked straight away with my graphics card. Other hardware checked out too. Very responsive at the start up because of all of the Windows related junk I've been used to. Proton ran my Steam games library, Lutris handled non-Steam titles.
 ### Input issues
 
-The road block came when my XBOX controller didn't register as an input device for the computer. Instead of Googling it straight away I improperly used Chat-GPT exclusively to try and fix the issue. Not my smartest idea. For 45 dumbfoundingly frustrating minutes it lead me willingly down the garden path. I'd run BASH commands that would attempt to install drivers that were already installed. If I pointed out a flaw in it's logic, I was lavishly praised and we'd take a different course of action.
+The road block came when my XBOX controller didn't register as an input device for the computer. Instead of Googling it straight away I improperly used Chat-GPT exclusively to try and fix the issue. Not my smartest idea. For 45 dumbfoundingly frustrating minutes it lead me willingly down the garden path. I'd run BASH commands that would attempt to install drivers and software that was already installed and in one case didn't exist. If I pointed out a flaw in it's logic, I was lavishly praised and we'd take a different course of action.
 
 I know large language models aren't made for this type of process, but because they can talk I still offer my problems up to them like some sort of oracle or shrine. As usual it was very convincing but ultimately wrong, digging it's heels in with it's original conclusion and doubling down at every step.
 
-I had to do it the old fashioned way and search for the answer myself on Reddit. I restarted the computer and it started working. After this, to my surprise it just worked. No issues all my games are compatible and my saves are backed up with Steam
+I had to do it the old fashioned way and search for the answer myself on Reddit. I restarted the computer, to my surprise it just worked. No issues, all my games were compatible and my saves backed up with Steam.
 
 ## Should you switch?
 
@@ -70,9 +68,10 @@ Yes, Linux has matured to a point where it's a viable option for most users. You
 
 **But if you rely on specialized tools,** consider sticking with Windows or exploring Apple products.
 ### Wrap up for my story
-Linux revived a 2009 Alienware for my mum and made my gaming PC better than ever with Pop!\_OS. In hindsight, it was actually satisfying to solve the controller problem. 
+Linux revived a 2009 Alienware for my Mum and made my gaming PC better than ever with Pop!\_OS. In hindsight, it was actually satisfying to solve the controller problem. 
 
-My PC now runs better with faster boot times, no bloat, even the LEDs stay off unless I enable them. To my surprise It has been about a month since I gave my mother the laptop, she is actually getting used to using it.
+My PC now runs better with faster boot times, no bloat, even the LEDs stay off unless I enable them. It has been about a month since I gave my mother the laptop, she is actually getting used to using it.
+
 ## Appendix:
 
 ### Useful links
@@ -99,11 +98,11 @@ Make sure everything's up to date first.
 
 `sudo apt update && sudo apt upgrade`
 
-Install steam on the command line rather than the app store.
+Install Steam on the command line rather than the app store.
 
  `sudo apt install steam`
  
-Ensure steam has its drivers for hardware.
+Ensure Steam has its drivers for hardware.
 
 `sudo apt-get install steam-devices`
 
@@ -114,7 +113,7 @@ Rebooting the computer.
 Failing this
 
 -------------------
-The following commands that Chat GPT gave me get some details on my situation and may help you if you have a different problem.
+The following commands that Chat GPT gave me got some details on my situation and may help you if you have a different problem.
 
 To list the USB devices.
 
