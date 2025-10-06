@@ -13,6 +13,7 @@ Ask yourself about your computer use:
 -  Do you want to revive aging hardware?
 - Do you dislike the strings that come with Windows?
 - Do you like an occasional challenge and importantly don't mind doing some troubleshooting?
+
 ## My Mum's laptop was dying.
 
 My parents were about to spend around $2000 on a PC. She mostly uses a web browser, word processor, solitaire and it's variations. Luckily I'd been reading about the end of support for Windows 10 coming up for older machines. So it was on my mind that I could repurpose an old laptop I had my parents to use instead. I thought it would be worth installing a different OS (operating system) and seeing if she could get used to it. I did a little Googling, many people recommended Linux Mint for Windows users due to its similar look.
@@ -24,6 +25,7 @@ I put Linux Mint on a USB and started it up. I made sure the track pad, Wi-Fi, s
 Then I went ahead with the full install that would overwrite the Windows installation on the hard drive. In less that 15 minutes it was ready to go. I set it to update automatically in the background, Firefox, libre office and a card game (with 200+ variations) on the desktop and had a try. Compared to its former sluggish state it was like a new machine for these tasks. 
 
 From my calculations the computer would have been from the later Windows 7 (July 22, 2009 release date for hardware manufacturers) or Windows 8 (August 1, 2012) era so it wasn't designed with Windows 10 in mind. Then a week later I handed it over to my Mum.
+
 ## My gaming PC and the Windows apocalypse.
 
 This success pushed me to try Linux on my gaming PC. I bought the components before COVID 19 was considered a pandemic. One of the components didn't have a feature required to get the upgrade. I probably could have gotten Windows 11 to work on it, but there was a chance it would become unstable.
@@ -84,19 +86,21 @@ r/linux_gaming, r/linux_for_noobs and r/pop_os .
 
 ### PC Parts for those interested:
 
-CPU (Central Processing Unit) - **AMD Ryzen 5 3600:** 6-Core / 12-Thread, 3.6 GHz (Boost up to 4.2 GHz)
-GPU (Graphics Processing Unit) - **Gigabyte Radeon RX 590:** 8GB GDDR5 VRAM
-Motherboard - **ASUS TUF Gaming X570-Plus (Wi-Fi):** AMD X570 Chipset, PCIe 4.0, Wi-Fi 5 (802.11ac)
-RAM (Random Access Memory) - G.Skill Trident Z RGB:** 16GB (2x8GB) DDR4-3600
+- CPU (Central Processing Unit) - **AMD Ryzen 5 3600:** 6-Core / 12-Thread, 3.6 GHz (Boost up to 4.2 GHz)
+- GPU (Graphics Processing Unit) - **Gigabyte Radeon RX 590:** 8GB GDDR5 VRAM
+- Motherboard - **ASUS TUF Gaming X570-Plus (Wi-Fi):** AMD X570 Chipset, PCIe 4.0, Wi-Fi 5 (802.11ac)
+- RAM (Random Access Memory) - G.Skill Trident Z RGB:** 16GB (2x8GB) DDR4-3600
 
 ### Helpful BASH commands
 
 If you are reading this and are having issues with XBOX controllers and Steam on POP_OS!, this is what I used.
 
 Make sure everything's up to date first.
+
 `sudo apt update && sudo apt upgrade`
 
 Install steam on the command line rather than the app store.
+
  `sudo apt install steam`
  
 Ensure steam has its drivers for hardware.
@@ -112,16 +116,22 @@ Failing this
 -------------------
 The following commands that Chat GPT gave me get some details on my situation and may help you if you have a different problem.
 
-To list the USB devices 
+To list the USB devices.
+
 `lsusb`
 
 To see what is happening when you plug in your device.
+
 `dmesg`
 
 Then possible solutions may be to install
+
 `xpad`
+
 Or 
+
 `xpadneo`
+
 drivers.
 
 ### Last remarks
