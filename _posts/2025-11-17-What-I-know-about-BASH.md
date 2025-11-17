@@ -1,11 +1,12 @@
 
 ---
 layout: post
-title: BASH Basics: 
-subtitle: Skip the Manual and Unlock Linux.
+title: BASH Basics 
+subtitle: Skip the Manual and Unlock Linux
 tags: [linux, cli, BASH]
 author: Sean
 ---
+
 My recent battles with Linux made it clear going through BASH again would be helpful to me.
 But I couldn't imagine it being enlightening for someone else to read.
 
