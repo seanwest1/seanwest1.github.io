@@ -3,7 +3,10 @@
 layout: post
 title: "BASH Basics"
 subtitle: "Skip the Manual and Unlock Linux"
-tags: [linux, cli, bash]
+tags:
+- linux, 
+-cli,
+- bash
 author: "Sean"
 ---
 My recent battles with Linux made it clear going through BASH again would be helpful to me.
