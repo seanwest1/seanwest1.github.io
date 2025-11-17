@@ -15,7 +15,6 @@ Besides, there are much better written basic guides online.
 The goal of this post is to encourage you to learn BASH if you have or are thinking of using a Linux machine.
 To skip the tedious manual and jump straight into practical application, making the most of your Linux system through the command line.
 
----
 
 ## What is BASH?
 
@@ -50,7 +49,7 @@ My most recent encounter came from my now Linux gaming PC.
 I had to use the CLI to install software to allow me to use my XBOX controllers.
 It all seemed to work very well, but I had to dig around on the internet to get my answers.
 
----
+
 
 ## Skim the Manual and Move to Practice
 
@@ -79,7 +78,6 @@ These let you test commands right in your browser without installing anything.
 * https://itsfoss.com/hacker-like-linux-terminal-tools/ - One of my favourites.
 * https://a.hollywood.computer/ - For a bit of terminal fun.
 
----
 
 ## Summary
 Bash is a very versatile skill to have. It's almost essential for Linux, letting you automate and string together complex tasks. Once you get comfortable with the basics, you unlock the full power and flexibility of the Linux operating system.
